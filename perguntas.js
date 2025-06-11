@@ -1,23 +1,23 @@
 criaCartao(
     'music',
-    'Qual é minha musica favorita?',
+    'Qual é sua musica favorita?',
     ' Outra Vida ☀️🌊'
 )
 
 criaCartao(
     'cine',
     'Qual sua série favorita?',
-    'The vampire diaries'
+    'The vampire diaries🧛🏻'
 )
 
 criaCartao(
-    'Qual é a melhor turma do CERB',
-    'A que mais se dedica as aulas do Prof. Rafael?',
-    'Estou em dúvida'
+    'paisagens',
+    'Qual você prefere, o sol ou  lua?',
+    'Lua🌑'
 )
 
 criaCartao(
     'Ganhando o Mundo',
-    'Quem participou do Programa Ganhado o mundo em 2024?',
-    'Eloisa Amorim dos Santos 👏👏👏'
+    'Qual sua cor favorita?',
+    'Roxo💜'
 )
