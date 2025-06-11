@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Ganhando o Mundo',
+    'colors',
     'Qual sua cor favorita?',
     'Roxo💜'
 )
