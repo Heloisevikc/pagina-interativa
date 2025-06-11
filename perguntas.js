@@ -1,13 +1,13 @@
 criaCartao(
-    'Felicidades',
+    'music',
     'Qual é minha musica favorita?',
     ' Outra Vida ☀️🌊'
 )
 
 criaCartao(
-    'Informática',
-    'Qual o melhor canal para aprender informática',
-    '@rasinformática'
+    'cine',
+    'Qual sua série favorita?',
+    'The vampire diaries'
 )
 
 criaCartao(
